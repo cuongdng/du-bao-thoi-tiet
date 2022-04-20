@@ -1,5 +1,4 @@
-# weather-app-rn
+# du-bao-thoi-tiet
 
-## Bài tập về nhà 
-
-### [Link Drive chứa video demo](https://drive.google.com/drive/folders/1AAu1lQz3Vl7Zqot69OfU4WNXPaMhNRW-?usp=sharing)
+## Bai tap ve nha mon App Mobile
+### [Link Drive chứa video demo](https://drive.google.com/file/d/1MbLvFFCOW_y55BsPUP6XRslj-nIehDrQ/view?usp=sharing)
